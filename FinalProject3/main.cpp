@@ -408,3 +408,8 @@ int main (int argc, const char * argv[])
     return 0;
 }
 
+// Bio 10 Rob Nolen Lab Score: 97.33%, Classroom Score: 88.00%, Exam Percent: 99.50%, Final Grade: A
+// Drafting 1 Rob Nolen Lab Score: 90.00%, Classroom Score: 98.00%, Final Grade: A
+// Programming 11 Rob Nolen Lab Score: 96.00%, Classroom Score: 88.75%, Final Grade: A
+// Basket Weaving 111 Rob Nolen Lab Score: 96.00%, Classroom Score: 100.00%, Final Grade: A
+
